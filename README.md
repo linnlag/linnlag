@@ -64,15 +64,5 @@ alive (unfortunately)
 ---
 
 <p align="center">
-  <img src="https://via.placeholder.com/20/ffb6c1/000000?text=+" />
-  <img src="https://via.placeholder.com/20/ffc0cb/000000?text=+" />
-  <img src="https://via.placeholder.com/20/dda0dd/000000?text=+" />
-  <img src="https://via.placeholder.com/20/b0e0e6/000000?text=+" />
-  <img src="https://via.placeholder.com/20/f0e68c/000000?text=+" />
-</p>
-
----
-
-<p align="center">
   <i>thanks for visiting or whatever 🐱</i>
 </p>
