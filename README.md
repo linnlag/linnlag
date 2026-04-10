@@ -39,8 +39,6 @@ alive (unfortunately)
   <a href="https://discord.com/users/linn.lag">discord</a>
 </p>
 
----
-
 <p align="center">
   <img src="https://media.tenor.com/q7r7V6Kq3SIAAAAC/anime-girl.gif" width="300"/>
 </p>
