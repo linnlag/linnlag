@@ -1,22 +1,16 @@
-<p align="center">
-  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-cute.gif" width="250"/>
-</p>
-
 <h1 align="center">hi, i'm linnlag 🐾</h1>
 
-<p align="center">
-  <i>silly human on the internet</i>
-</p>
+<table>
+<tr>
+<td width="45%" align="center">
 
-<p align="center">
-  <a href="https://discord.com/users/linnlag">discord</a>
-</p>
+<img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-cute.gif" width="100%"/>
 
----
+</td>
 
-console.log("booting linnlag.exe...");
+<td width="55%" valign="top">
 
-```
+<pre>
 > whoami
 linnlag
 
@@ -31,7 +25,19 @@ alive (unfortunately)
 > learning
 - how github works
 - maybe coding someday??
-```
+</pre>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <i>silly human on the internet</i>
+</p>
+
+<p align="center">
+  <a href="https://discord.com/users/linn.lag">discord</a>
+</p>
 
 ---
 
@@ -51,9 +57,9 @@ alive (unfortunately)
 
 ### 🎮 interests
 
-* internet stuff
-* random videos at 3am
-* chaos
+* CATS
+* 2 hours of sleep
+* reading? perchance
 
 ---
 
